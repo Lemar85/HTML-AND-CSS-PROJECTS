@@ -1,0 +1,14 @@
+/*Import link for the Playwrite England Joined Fuides font from fonts.google.com*/
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+J+Guides:ital@0;1&display=swap');
+
+h1{
+    font-family: 'Playwrite GB Guides', cursive; /*Font from fonts.google.com*/
+    font-size: 80px;
+}
+
+input[type=text] {
+    width: 100%;
+    margin: 8px 0;
+    border: 2px solid blue;
+    border-radius: 4px;
+}
